@@ -45,8 +45,8 @@
 /* Begin PBXFileReference section */
 		B601C4201B4CC8D7002552FF /* ScanCodeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScanCodeViewController.h; path = Scripts/ScanCode/ScanCodeViewController.h; sourceTree = "<group>"; };
 		B601C4211B4CC8D7002552FF /* ScanCodeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScanCodeViewController.m; path = Scripts/ScanCode/ScanCodeViewController.m; sourceTree = "<group>"; };
-		B61CA4511B4D05B100F715D2 /* DeliveryExeptionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DeliveryExeptionViewController.h; path = ../DeliveryExeptionViewController.h; sourceTree = "<group>"; };
-		B61CA4521B4D05B100F715D2 /* DeliveryExeptionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DeliveryExeptionViewController.m; path = ../DeliveryExeptionViewController.m; sourceTree = "<group>"; };
+		B61CA4511B4D05B100F715D2 /* DeliveryExeptionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeliveryExeptionViewController.h; sourceTree = "<group>"; };
+		B61CA4521B4D05B100F715D2 /* DeliveryExeptionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeliveryExeptionViewController.m; sourceTree = "<group>"; };
 		B61CA4541B4D3CB200F715D2 /* main_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = main_09.jpg; sourceTree = "<group>"; };
 		B61CA4561B4D3D0900F715D2 /* Checkmark.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Checkmark.svg; sourceTree = "<group>"; };
 		B61CA4581B4D3F2600F715D2 /* OK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OK.png; sourceTree = "<group>"; };
